@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> We have started using https://github.com/gazebosim/gazebo_test_cases/ for Gazebo tutorial parties. This repo is no longer actively used.
+
 README
 ======
 
